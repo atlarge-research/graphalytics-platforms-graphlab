@@ -53,3 +53,5 @@ case "$target" in
 	;;
 esac
 
+export platform="graphlab"
+
