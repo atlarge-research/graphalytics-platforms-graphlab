@@ -1,5 +1,7 @@
 # Graphalytics GraphLab Create platform extension
 
+[![Build Status](http://jenkins.tribler.org/buildStatus/icon?job=Graphalytics_GraphLab_master_tester)](http://jenkins.tribler.org/job/Graphalytics_GraphLab_master_tester/)
+
 
 ## Getting started
 
